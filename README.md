@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+
 
 <img width="1376" height="768" alt="Gemini_Generated_Image_lzsdpxlzsdpxlzsd" src="https://github.com/user-attachments/assets/443d3f90-5584-41ab-a069-607cb491801c" />
 
