@@ -8,8 +8,6 @@
 
 Hello! My name is Jhasper B. Serrano, and I am a 24-year-old student from City College of Davao, currently taking up Bachelor of Technical-Vocational Teacher Education major in Computer Programming (BTVTED-CP).
 
-I was born on September 18, 2001, and I consider myself a responsible, hardworking, and helpful person. I value teamwork, discipline, and respect for others. My hobbies include reading manhua, playing online games, especially MMORPGs, and spending time improving my skills in cooking and baking.
-
 My goal in life is to finish my education and become a professional who can inspire others through teaching and technology. I dream of using my programming knowledge to create projects that help people and improve systems in schools and communities.
 
 - 🌱 Currently learning: Blockchain
