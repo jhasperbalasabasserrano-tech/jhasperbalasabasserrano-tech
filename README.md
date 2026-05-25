@@ -4,14 +4,18 @@
 
 
 
+
 ## About Me 🚀
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTBjN29scDVzaGFxZnU3N3d5MjJrbnBoNjE0NHJidnpqZW5lY2tkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif">
+</a>
 
 Hello! My name is Jhasper B. Serrano, and I am a 24-year-old student from City College of Davao, currently taking up Bachelor of Technical-Vocational Teacher Education major in Computer Programming (BTVTED-CP).
 
 My goal in life is to finish my education and become a professional who can inspire others through teaching and technology. I dream of using my programming knowledge to create projects that help people and improve systems in schools and communities.
 
 - 🌱 Currently learning: Blockchain
-- 📫 How to reach me: jhasperbalasabas.serrano@ccd.edu.ph
+- 📫 How to reach me: jhasperbalasabas.serrano@ccd.edu.ph                                                         
 
 
 ## My Skills 🧠
@@ -26,3 +30,4 @@ My goal in life is to finish my education and become a professional who can insp
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-the-badge&logo=java&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
