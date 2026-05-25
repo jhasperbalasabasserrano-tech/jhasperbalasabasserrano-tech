@@ -1,6 +1,7 @@
 # Hi there, I'm [Your Name]! 👋
 
-![Banner Image](your_banner_image_url_here)
+<img width="1376" height="768" alt="Gemini_Generated_Image_hte3w4hte3w4hte3" src="https://github.com/user-attachments/assets/76a026e3-f79b-4089-80c0-09c2586a727a" />
+
 
 ## About Me 🚀
 
